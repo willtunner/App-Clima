@@ -2,18 +2,16 @@
 <h3>https://console.hgbrasil.com/keys</h3>
 
 # Projeto Tempo
-> Esse projeto foi um estudo React Native + consumo de api e front-end<br/>
+> Esse projeto foi um estudo React Native + consumo de api e front-end.<br/>
 
 
 #### APP TEMPO RECURSOS
 > Pega a geolocalização do celular para mostrar dados sobre o tempo na região onde ele se encontra <br/>
-> Uma area para a pesquisar o clima por cidade<br/>
+> Uma area para a pesquisar o clima por cidade.<br/>
 
 
 ## Imagens do projeto
 ![](assets/img/01.jpg)
-
-<hr>
 
 ![](assets/img/02.jpg)
 
